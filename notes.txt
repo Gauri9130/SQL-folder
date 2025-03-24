@@ -1,0 +1,29 @@
+Age group formula
+=IF A2<=19,1,         
+A2<=29,2,
+.
+.ELSE
+.
+<A2<=89,8,9))))))))
+
+ *FILTER
+CTRL+SHIFT+L)
+
+
+chat gbt,stackoverflow,reddit
+
+*copy colum vertiacl data in horizontal:
+   copy vertical data rigt click+paste special+transpose
+
+1.Within Province, sort in decreasing order of sales
+2.Within every Region, highlight the top 10% orders by sales in light green fill and dark
+green border
+
+COUNT :countif
+TOTAL / SUM  :sumif
+AVG : averageif
+
+The syntax for the HLOOKUP function in Excel and Google Sheets is HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup]). 
+
+remove duplicate
+Alt+m+m
